@@ -17,3 +17,13 @@ body {
   background-color:turquoise
 }
 
+div {
+  width: 600px;
+  border: 15px;
+  padding: 5px;
+  margin: 5px;
+}
+img {
+  float: left;
+  margin: 10px;
+}
