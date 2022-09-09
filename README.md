@@ -33,7 +33,7 @@ Languages used include HTML and CSS. I have used editor Visual Studio Code for c
 If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: ngangamary078@gmail.com to make a contribution to the code or for any assistance on the app/project.
 
 ### Live link
-https://github.com/ngangamary078/Week-one-project.git
+https://ngangamary078.github.io/Week-one-project/
 
 ### License
 
